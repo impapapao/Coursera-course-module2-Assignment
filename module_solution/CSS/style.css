@@ -9,12 +9,13 @@ body {
 
 .menu-title {
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   margin-top: 20px;
   font-size: 40px;
 }
  .row {
   width: 100%;
+  position: relative;
  }
 
 .container {
@@ -42,7 +43,6 @@ body {
   margin: 0;
   padding-left: 30px;
   padding-right: 30px;
-
   font-size: 30px;
 }
 .content {
@@ -52,6 +52,7 @@ body {
   padding-top: 40px;
   background-color: bisque;
   font-size: 20px;
+  text-align: justify;
 }
 
 #color-chicken {
@@ -85,8 +86,7 @@ body {
       width: 100%;
     }
     .title3 {
-      margin: auto;
-      width: 33.33%
+      width: 60%;
     }
   }
   
